@@ -26,7 +26,8 @@ I am building my programming and software development skills through coursework 
 
 - Programming fundamentals and problem solving
 - Android app development
-
+## portfolio link
+- ashwinisingh2400.github.io/developer-portfolio
 ## Connect
 
 - [GitHub](https://github.com/ashwinisingh2400)
